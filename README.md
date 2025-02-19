@@ -1,6 +1,6 @@
 # Study Projects
 ## Overview
-This repository contains projects completed as part of my studies to develop data science and machine learning skills:
+This repository contains projects completed as part of my studies at Noroff University and Data Loves Academy (https://www.linkedin.com/company/data-loves-academy/posts/?feedView=all) to develop data science and machine learning skills:
 
 1. **Car Price Prediction:**  
    Built a multiple linear regression model to predict car prices based on attributes like mileage, engine size, and brand. The project involved data cleaning, visualization, and model evaluation.
